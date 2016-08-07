@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<!--Page Setup meta-->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!--Facebook meta tags-->
+		<meta property="og:url" content="http://cscc.edu/pathway/index.htm" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Preferred Pathway" />
+		<meta property="og:description" content="Your path to a debt-free bachelor’s degree? Preferred Pathway." />
+		<meta property="og:image" content="http://cscc.edu/pathway/PreferredPathwayCommercialFB.jpg" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+
+		<!--Page Title-->
+		<title>Preferred Pathway - Columbus State Community College</title>
+
+		<!--Linked Stylesheets-->
+		<link rel="stylesheet" href="css/foundation.min.css">
+    	<link rel="stylesheet" href="css/app.css">
+	</head>
+
+	<body>
+	
+		<!--Container div-->
+		<div class="containerAll">
+
+			<!-- Background video/photo -->
+			<div class="fullscreen-bg">
+				<div class="colorTransparent"></div>
+			    <video loop muted autoplay poster="images/PreferredPathwayCommercialBackground.jpg" class="fullscreen-bg-video">
+			        <source src="video/pp40.mp4" type="video/mp4">
+			    </video>
+			</div>
+
+			<!-- Title Bar and Mobile Navigation -->
+			<div class="header">
+				<!-- Header Elements -->
+				<div class="row full">
+					<div class="medium-7 columns">
+						<div class="small-8 header_logo columns">
+							<a href="http://www.cscc.edu"><img src="images/columbus-state-community-college-logo-white.png"/></a>
+						</div>
+						<div id="hamburger" class="small-2 dropDown columns ddown">
+							<div class="togBG" data-responsive-toggle="responsive-menu" data-hide-for="medium">
+							  	<button class="menu-icon" type="button" data-toggle></button>
+							  	<div class="togTitle">menu</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="medium-5 columns header_text">
+						<span class="hide-for-small-only"><h4>Preferred Pathway</h4></span>
+					</div>
+				</div>
+
+				<!-- Dropdown Menu Navigation -->
+				<div id="responsive-menu" class="large-12 columns ddown" >
+			 		<span class="hide-for-medium">
+					 	<ul class="dropdown menu" data-dropdown-menu>
+					        <li id="mobileDrop">
+					          	<a href="#request" class="navItem requestDrop"><img src="images/pref_low.png" class="reqImg" />Request Info</a>
+			          			<a href="#osu" class="navItem"><img src="images/osu.jpg" class="navImg" />The Ohio State University</a>
+			          			<a href="#ou" class="navItem"><img src="images/ohiou.jpg" class="navImg" />Ohio University</a>
+			          			<a href="#franklin" class="navItem"><img src="images/franklin.jpg" class="navImg" />Franklin University</a>
+			          			<a href="#wesleyan" class="navItem"><img src="images/ohiowu.jpg" class="navImg" />Ohio Wesleyan University</a>
+			          			<a href="#miami" class="navItem"><img src="images/miami.jpg" class="navImg" />Miami University</a>
+			          			<a href="#ccad" class="navItem"><img src="images/ccad.jpg" class="navImg" />CCAD</a>
+			          			<a href="#ohio_dominican" class="navItem"><img src="images/ohiodominican.jpg" class="navImg" />Ohio Dominican</a>
+			          			<a href="#otterbein" class="navItem"><img src="images/otterbein.jpg" class="navImg" />Otterbein</a>
+			          			<a href="#capital" class="navItem"><img src="images/capital.jpg" class="navImg" />Capital University</a>
+			          			<div class="navItem requestDrop" data-responsive-toggle="responsive-menu"><a href="#" class="requestDrop" data-toggle><i class="fa fa-caret-up upItem" aria-hidden="true"></i></i></a></div>
+			          			<br><br><br>
+					        </li>
+
+				       	</ul>
+				    </span>
+		       </div>
+
+			</div>
+
+			<!-- Splash Question and Pref Logo -->
+			<div class="splashContainer row">
+		       	<div class="large-12 columns">
+		       		<h1>Your path to a debt-free bachelor’s degree?</h1>
+		       		<img src="images/transparent_preferred_logo.png" class="prefLogo" />
+		       	</div>
+		    </div>
+
+			<!-- Content -->
+		    <div class="contentContainer row full">
+		       	<div class="large-12 columns">
+		       		<h2>Hundreds of Options. Nine Partners. Zero Debt.</h2>
+		       		<p>In 2015-2016, 76% of Columbus State students did not take on any student loan debt. What’s the secret? By completing your first two years of college at Columbus State, you can save up 40% or more off the cost of a bachelor’s degree. </p>
+		       		<br>
+		       		<p>See where our students have transferred:</p>
+		       		<div class="flex-video">
+					  	<iframe width="560" height="315" src="https://www.youtube.com/embed/LuO_qyw5vqw" frameborder="0" allowfullscreen></iframe>
+					</div>
+
+					<h2>Preferred Pathway Partners</h2>
+					<p>If you participate in the Columbus State Preferred Pathway® program, you’ll be guaranteed admission when you transfer to any one of nine great regional colleges and universities. Preferred Pathway saves you both time and tuition because you take only the courses needed for your degree.</p>
+					<br>
+					<p><a href="http://www.cscc.edu/academics/transfer/preferred-pathway.shtml">Get detailed information on the Preferred Pathway</a> or click any partner logo below for more information.</p>
+
+					<!-- Bottom School Image Grid -->
+					<div class="row small-up-2 medium-up-3 large-up-4">
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-state-university.shtml"><img src="images/osu.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-university.shtml"><img src="images/ohiou.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/franklin-university.shtml"><img src="images/franklin.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-wesleyan-university.shtml"><img src="images/ohiowu.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/miami-university.shtml"><img src="images/miami.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/columbus-college-of-art-and-design.shtml"><img src="images/ccad.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-dominican-university.shtml"><img src="images/ohiodominican.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/otterbein-university.shtml"><img src="images/otterbein.jpg" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/capital-university.shtml"><img src="images/capital.jpg" class="logosImg"/></a></div>
+					</div>
+
+		       	</div>
+
+		       	
+		       	<div class="large-12 columns lineBreak"></div>
+
+		       	<!-- Request More Text & Button -->
+		       	<div class="request row large-12">
+		       		<h3 class="medium-6 small-12 columns requestText">Want to learn more about getting a debt-free start to your bachelor’s degree?</h3>
+		       		<a href="about.html" class="large medium-6 button columns">Request Info</a>
+		       	</div>
+
+		    </div>
+
+
+		    <!-- Footer -->
+		    <div class="row full">
+			    <footer class="foot">
+			    	<p>©2016 Columbus State Community College</p>
+			    </footer>
+			</div>
+
+			
+		</div>
+
+		<!--Linked Scripts-->
+	    <script src="js/vendor/jquery.js"></script>
+	    <script src="js/vendor/what-input.js"></script>
+	    <script src="js/vendor/foundation.min.js"></script>
+	    <script src="js/app.js"></script>
+	    <script src="https://use.fontawesome.com/1f7b7beadb.js"></script>
+
+	    <script>
+			$('#hamburger').removeClass('ddown');
+			$('#responsive-menu').removeClass('ddown');
+		</script>
+
+	</body>
+
+</html>
