@@ -113,6 +113,8 @@ a.navItem:hover {
 
 .logosImg {
 	padding: 0.5vw;
+	padding-left: 2vw;
+	padding-right: 2vw;
 	margin-bottom: 1vw;
 	border: 1px solid white;
 	border-radius: 8px;
@@ -175,6 +177,12 @@ a.navItem:hover {
 	background-color: #003f53;
 	text-align: center;
 	font-size: 0.8em;
+}
+
+.foot p {
+	font-size: 1em;
+	padding-bottom: 0.3em;
+	padding-top: 0.3em;
 }
 
 

@@ -64,17 +64,17 @@
 			 		<span class="hide-for-medium">
 					 	<ul class="dropdown menu" data-dropdown-menu>
 					        <li id="mobileDrop">
-					          	<a href="#request" class="navItem requestDrop"><img src="images/pref_low.png" class="reqImg" />Request Info</a>
-			          			<a href="#osu" class="navItem"><img src="images/osu.jpg" class="navImg" />The Ohio State University</a>
-			          			<a href="#ou" class="navItem"><img src="images/ohiou.jpg" class="navImg" />Ohio University</a>
-			          			<a href="#franklin" class="navItem"><img src="images/franklin.jpg" class="navImg" />Franklin University</a>
-			          			<a href="#wesleyan" class="navItem"><img src="images/ohiowu.jpg" class="navImg" />Ohio Wesleyan University</a>
-			          			<a href="#miami" class="navItem"><img src="images/miami.jpg" class="navImg" />Miami University</a>
-			          			<a href="#ccad" class="navItem"><img src="images/ccad.jpg" class="navImg" />CCAD</a>
-			          			<a href="#ohio_dominican" class="navItem"><img src="images/ohiodominican.jpg" class="navImg" />Ohio Dominican</a>
-			          			<a href="#otterbein" class="navItem"><img src="images/otterbein.jpg" class="navImg" />Otterbein</a>
-			          			<a href="#capital" class="navItem"><img src="images/capital.jpg" class="navImg" />Capital University</a>
-			          			<div class="navItem requestDrop" data-responsive-toggle="responsive-menu"><a href="#" class="requestDrop" data-toggle><i class="fa fa-caret-up upItem" aria-hidden="true"></i></i></a></div>
+					          	<a href="https://columbusstatecc.hobsonsradius.com/ssc/iform/M0BC28B0A7020x670wB3F.ssc" class="navItem requestDrop"><img src="images/pref_low.png" alt="Request Info" class="reqImg" />Request Info</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/ohio-state-university.shtml" class="navItem"><img src="images/osu.jpg" alt="Ohio State University" class="navImg" />The Ohio State University</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/ohio-university.shtml" class="navItem"><img src="images/ohiou.jpg" alt="Ohio University" class="navImg" />Ohio University</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/franklin-university.shtml" class="navItem"><img src="images/franklin.jpg" alt="Franklin University" class="navImg" />Franklin University</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/ohio-wesleyan-university.shtml" class="navItem"><img src="images/ohiowu.jpg" alt="Ohio Wesleyan" class="navImg" />Ohio Wesleyan University</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/miami-university.shtml" class="navItem"><img src="images/miami.jpg" alt="Miami University" class="navImg" />Miami University</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/columbus-college-of-art-and-design.shtml" class="navItem"><img src="images/ccad.jpg" alt="CCAD" class="navImg" />CCAD</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/ohio-dominican-university.shtml" class="navItem"><img src="images/ohiodominican.jpg" alt="Ohio Dominican University" class="navImg" />Ohio Dominican</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/otterbein-university.shtml" class="navItem"><img src="images/otterbein.jpg" alt="Otterbein University" class="navImg" />Otterbein</a>
+			          			<a href="http://www.cscc.edu/academics/transfer/colleges/capital-university.shtml" class="navItem"><img src="images/capital.jpg" alt="Capital University University" class="navImg" />Capital University</a>
+			          			<div class="navItem requestDrop" data-responsive-toggle="responsive-menu"><a href="#" alt="Close" class="requestDrop" data-toggle><i class="fa fa-caret-up upItem" aria-hidden="true"></i></i></a></div>
 			          			<br><br><br>
 					        </li>
 
@@ -109,16 +109,16 @@
 					<p><a href="http://www.cscc.edu/academics/transfer/preferred-pathway.shtml">Get detailed information on the Preferred Pathway</a> or click any partner logo below for more information.</p>
 
 					<!-- Bottom School Image Grid -->
-					<div class="row small-up-2 medium-up-3 large-up-4">
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-state-university.shtml"><img src="images/osu.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-university.shtml"><img src="images/ohiou.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/franklin-university.shtml"><img src="images/franklin.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-wesleyan-university.shtml"><img src="images/ohiowu.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/miami-university.shtml"><img src="images/miami.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/columbus-college-of-art-and-design.shtml"><img src="images/ccad.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-dominican-university.shtml"><img src="images/ohiodominican.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/otterbein-university.shtml"><img src="images/otterbein.jpg" class="logosImg"/></a></div>
-					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/capital-university.shtml"><img src="images/capital.jpg" class="logosImg"/></a></div>
+					<div class="row small-up-2 medium-up-3 large-up-3">
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-state-university.shtml"><img src="images/osu.jpg" alt="Ohio State University" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-university.shtml"><img src="images/ohiou.jpg" alt="Ohio University" class="logosImg" /></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/franklin-university.shtml"><img src="images/franklin.jpg" alt="Franklin University" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-wesleyan-university.shtml"><img src="images/ohiowu.jpg" alt="Ohio Wesleyan" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/miami-university.shtml"><img src="images/miami.jpg" alt="Miami University" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/columbus-college-of-art-and-design.shtml"><img src="images/ccad.jpg" alt="CCAD" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/ohio-dominican-university.shtml"><img src="images/ohiodominican.jpg" alt="Ohio Dominican University" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/otterbein-university.shtml"><img src="images/otterbein.jpg" alt="Otterbein University" class="logosImg"/></a></div>
+					  <div class="columns"><a href="http://www.cscc.edu/academics/transfer/colleges/capital-university.shtml"><img src="images/capital.jpg" alt="Capital University" class="logosImg"/></a></div>
 					</div>
 
 		       	</div>
@@ -129,7 +129,7 @@
 		       	<!-- Request More Text & Button -->
 		       	<div class="request row large-12">
 		       		<h3 class="medium-6 small-12 columns requestText">Want to learn more about getting a debt-free start to your bachelor’s degree?</h3>
-		       		<a href="about.html" class="large medium-6 button columns">Request Info</a>
+		       		<a href="https://columbusstatecc.hobsonsradius.com/ssc/iform/M0BC28B0A7020x670wB3F.ssc" class="large medium-6 button columns">Request Info</a>
 		       	</div>
 
 		    </div>
